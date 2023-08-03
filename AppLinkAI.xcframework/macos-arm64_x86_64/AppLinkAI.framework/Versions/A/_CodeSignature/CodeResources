@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Resources/AppLinkAI.podspec</key>
+		<data>
+		hO47zELaUQFFAhGZSrPUHXWVLro=
+		</data>
 		<key>Resources/Info.plist</key>
 		<data>
 		+EaRzccUh7UptPsv+9QQlV21TzQ=
@@ -100,6 +104,13 @@
 			<key>hash2</key>
 			<data>
 			oOAAuWRAE2XeI6XY4FxNT8St+otO2tx2Yr/5unMiOQA=
+			</data>
+		</dict>
+		<key>Resources/AppLinkAI.podspec</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WMqBbI971WlxgGP9wvKxnJNOrCH9aJ0B3QNBW/R4OkQ=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>

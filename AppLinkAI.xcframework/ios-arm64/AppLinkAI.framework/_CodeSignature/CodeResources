@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AppLinkAI.podspec</key>
+		<data>
+		hO47zELaUQFFAhGZSrPUHXWVLro=
+		</data>
 		<key>Headers/AppLinkAI-Swift.h</key>
 		<data>
 		x192fmXVBGH/czjg4ga401nzHg8=
@@ -43,6 +47,13 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>AppLinkAI.podspec</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WMqBbI971WlxgGP9wvKxnJNOrCH9aJ0B3QNBW/R4OkQ=
+			</data>
+		</dict>
 		<key>Headers/AppLinkAI-Swift.h</key>
 		<dict>
 			<key>hash2</key>
