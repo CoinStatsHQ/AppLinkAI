@@ -302,8 +302,8 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) AppLink * _N
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 - (void)initializeWithLaunchOptions:(NSDictionary<UIApplicationLaunchOptionsKey, id> * _Nullable)launchOptions isTestMode:(BOOL)isTestMode deeplinkHandler:(void (^ _Nullable)(NSDictionary<NSString *, id> * _Nullable, NSError * _Nullable))deeplinkHandler;
-- (BOOL)continueUserActivity:(NSUserActivity * _Nonnull)activity SWIFT_WARN_UNUSED_RESULT;
-- (BOOL)handleDeepLink:(NSURL * _Nonnull)url SWIFT_WARN_UNUSED_RESULT;
+- (BOOL)continueUserActivity:(NSUserActivity * _Nonnull)activity;
+- (BOOL)handleDeepLink:(NSURL * _Nonnull)url;
 @end
 
 #endif

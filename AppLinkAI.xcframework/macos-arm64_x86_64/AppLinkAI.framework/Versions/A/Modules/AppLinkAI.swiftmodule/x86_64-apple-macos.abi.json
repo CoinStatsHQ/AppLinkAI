@@ -1268,6 +1268,7 @@
             "objc_name": "continueUserActivity:",
             "declAttributes": [
               "AccessControl",
+              "DiscardableResult",
               "ObjC"
             ],
             "funcSelfKind": "NonMutating"
@@ -1296,6 +1297,7 @@
             "moduleName": "AppLinkAI",
             "declAttributes": [
               "AccessControl",
+              "DiscardableResult",
               "ObjC"
             ],
             "funcSelfKind": "NonMutating"
@@ -2256,266 +2258,266 @@
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "BooleanLiteral",
-      "offset": 2934,
+      "offset": 2953,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 4002,
+      "offset": 4044,
       "length": 20,
       "value": "\"api\/v1\/link\/verify\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 4054,
+      "offset": 4096,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "Dictionary",
-      "offset": 4114,
+      "offset": 4156,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 4134,
+      "offset": 4176,
       "length": 11,
       "value": "\"X-API-KEY\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 4172,
+      "offset": 4214,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 4190,
+      "offset": 4232,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 4308,
+      "offset": 4350,
       "length": 4,
       "value": "\"os\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 4316,
+      "offset": 4358,
       "length": 5,
       "value": "\"iOS\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 4337,
+      "offset": 4379,
       "length": 11,
       "value": "\"osVersion\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 4424,
+      "offset": 4466,
       "length": 12,
       "value": "\"pixelDepth\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 4440,
+      "offset": 4482,
       "length": 4,
       "value": "\"32\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 4788,
+      "offset": 4830,
       "length": 12,
       "value": "\"screenSize\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 4804,
+      "offset": 4846,
       "length": 84,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "IntegerLiteral",
-      "offset": 4841,
+      "offset": 4883,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 4844,
+      "offset": 4886,
       "length": 1,
       "value": "\" x \""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "IntegerLiteral",
-      "offset": 4884,
+      "offset": 4926,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 4887,
+      "offset": 4929,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 4904,
+      "offset": 4946,
       "length": 7,
       "value": "\"model\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 4963,
+      "offset": 5005,
       "length": 10,
       "value": "\"deviceId\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 5054,
+      "offset": 5096,
       "length": 14,
       "value": "\"languageCode\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "IntegerLiteral",
-      "offset": 5627,
+      "offset": 5669,
       "length": 3,
       "value": "400"
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 5676,
+      "offset": 5718,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 5702,
+      "offset": 5744,
       "length": 22,
       "value": "\"Something went wrong\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 5773,
+      "offset": 5815,
       "length": 10,
       "value": "\"AppLinks\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "IntegerLiteral",
-      "offset": 5791,
+      "offset": 5833,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 5914,
+      "offset": 5956,
       "length": 16,
       "value": "\"isFirstSession\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 6072,
+      "offset": 6114,
       "length": 6,
       "value": "\"link\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 6094,
+      "offset": 6136,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 6181,
+      "offset": 6223,
       "length": 10,
       "value": "\"AppLinks\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "IntegerLiteral",
-      "offset": 6199,
+      "offset": 6241,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 6241,
+      "offset": 6283,
       "length": 22,
       "value": "\"Something went wrong\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 6545,
+      "offset": 6587,
       "length": 3,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 6803,
+      "offset": 6845,
       "length": 4,
       "value": "\"en\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "IntegerLiteral",
-      "offset": 7111,
+      "offset": 7153,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 7141,
+      "offset": 7183,
       "length": 24,
       "value": "\"IOPlatformExpertDevice\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "IntegerLiteral",
-      "offset": 7339,
+      "offset": 7381,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "IntegerLiteral",
-      "offset": 7517,
+      "offset": 7559,
       "length": 1,
       "value": "0"
     },

@@ -64,8 +64,10 @@ public enum KeychainSwiftAccessOptions {
   public typealias DeeplinkHandler = (_ params: [Swift.String : Any]?, _ error: (any Swift.Error)?) -> Swift.Void
   @objc public static let shared: AppLinkAI.AppLink
   @objc public func initialize(launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]?, isTestMode: Swift.Bool = false, deeplinkHandler: AppLinkAI.AppLink.DeeplinkHandler?)
+  @discardableResult
   @objc(continueUserActivity:) public func `continue`(_ activity: Foundation.NSUserActivity) -> Swift.Bool
-  @objc public func handleDeepLink(_ url: Foundation.URL) -> Swift.Bool
+  @objc @discardableResult
+  public func handleDeepLink(_ url: Foundation.URL) -> Swift.Bool
   @objc deinit
 }
 open class KeychainSwift {
