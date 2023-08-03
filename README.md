@@ -1,6 +1,6 @@
 # AppLink.ai
 
-AppLink.ai is a powerful library that simplifies the implementation of deeplinking and deferred deeplinking in iOS apps. It provides an easy-to-use API to handle incoming deeplinks and route them to the appropriate parts of your app, enabling a seamless user experience.
+[AppLink.ai](https://applink.ai) is a powerful library that simplifies the implementation of deeplinking and deferred deeplinking in iOS apps. It provides an easy-to-use API to handle incoming deeplinks and route them to the appropriate parts of your app, enabling a seamless user experience.
 
 ## Features
 
@@ -25,19 +25,25 @@ Set up AppLinkAI in your AppDelegate:
 import AppLinkAI
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        // ...
         AppLink.shared.initialize(launchOptions: launchOptions) { params, error in
             // Use params for your deeplinkings
         }
+        // ...
         return true
     }
     
     func application(_ application: UIApplication, continue userActivity: NSUserActivity, restorationHandler: @escaping ([UIUserActivityRestoring]?) -> Void) -> Bool {
+        // ...
         AppLink.shared.continue(userActivity)
+        // ...
         return true
     }
     
     func application(_ app: UIApplication, open url: URL, options: [UIApplication.OpenURLOptionsKey : Any] = [:]) -> Bool {
+        // ...
         AppLink.shared.handleDeepLink(url)
+        // ...
         return true
     }        
 ```
