@@ -53,6 +53,8 @@ Set up Api Keys in your app target's info.plist
 </dict>
 ```
 
+If you don't have an api key yet, you can obtain one from [applink.ai](https://applink.ai) dashboard.
+
 ## License
 
 AppLinkAI is released under the MIT License. 
