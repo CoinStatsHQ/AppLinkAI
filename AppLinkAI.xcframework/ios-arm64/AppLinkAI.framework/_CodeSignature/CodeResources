@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/AppLinkAI-Swift.h</key>
 		<data>
-		m9egWYOCCja2ckMLU6KNkssV+Sk=
+		Zaws3SL3Bwma+HXGwhaKAfoj55s=
 		</data>
 		<key>Headers/AppLinkAI.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		VLTtnzJ4CJj83F4KpXyODeeN0uU=
+		L3++gfmVwYnOkPXihFKaOgpfyuk=
 		</data>
 		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		8Yr3lGVowLPYMRttcOX7uI3D0BE=
+		4tRZGMBCzZ57KW66hwvhg9AEkLM=
 		</data>
 		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		zaQfwDpQgHsXIxEmCXVx9iLZrlM=
+		6w9yQVTLTl9DrAb2Ny5nOCDQ8Lk=
 		</data>
 		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
@@ -58,7 +58,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			V+TPlDv5bEduEJau5jAdYqjdvjDQZTZ/6KiQRMlaHWg=
+			Y5tEO5A+MQaiC1CxydEqTKdJhxR6pDnfrmCJDUk4hhQ=
 			</data>
 		</dict>
 		<key>Headers/AppLinkAI.h</key>
@@ -72,7 +72,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4rAeRFYbcyc9KvR0L6t9WOgELfMUSmvxrNkg67fWIqk=
+			MCjZQph+wvH+XS4eLQNNCE92q8jztSday/e7RFJkdWQ=
 			</data>
 		</dict>
 		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -86,7 +86,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G2POscs9fPBe+V0NTOf6SLgZzCnifhjcAY5i6KyLyUE=
+			8eGTwQBTcRUJ24MjVmWPdSxHklBbCdLzfywYym24vwo=
 			</data>
 		</dict>
 		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-ios.swiftinterface</key>
