@@ -1,3 +1,20 @@
+
+<p align="center">
+<a href="https://developer.apple.com/swift/">
+<img src="https://img.shields.io/badge/Swift-5.8-orange.svg?style=flat" alt="Swift 5.8">
+</a>
+<a href="https://cocoapods.org/pods/AppLinkAI">
+<img src="https://img.shields.io/cocoapods/v/AppLinkAI.svg?style=flat" alt="Version">
+</a>
+<img src="https://img.shields.io/badge/spm-v1.0.1-orange.svg?style=flat" alt="Platform">
+<a href="https://cocoapods.org/pods/Unrealm">
+<img src="https://img.shields.io/cocoapods/l/AppLinkAI.svg?style=flat" alt="License">
+</a>
+<a href="https://cocoapods.org/pods/Unrealm">
+<img src="https://img.shields.io/cocoapods/p/AppLinkAI.svg?style=flat" alt="Platform">
+</a>
+</p>
+
 # AppLink.ai
 
 [AppLink.ai](https://applink.ai) is a powerful library that simplifies the implementation of deeplinking and deferred deeplinking in iOS apps. It provides an easy-to-use API to handle incoming deeplinks and route them to the appropriate parts of your app, enabling a seamless user experience.
