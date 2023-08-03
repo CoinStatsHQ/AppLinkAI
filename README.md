@@ -11,11 +11,17 @@
 
 ## Installation
 
+### Cocoapods
 You can install AppLinkAI using CocoaPods. Add the following line to your Podfile:
 
 ```ruby
 pod 'AppLinkAI', '~> 1.0.0'
 ```
+
+### Swift Package Manager
+You can also use Swift Package Manager to add AppLinkAI as a dependency to your project. In order to do so, use the following URL:
+
+https://github.com/CoinStatsHQ/AppLinkAI
 
 ## Usage
 
