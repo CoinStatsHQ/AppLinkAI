@@ -17,7 +17,7 @@ You can install AppLinkAI using CocoaPods. Add the following line to your Podfil
 pod 'AppLinkAI', '~> 1.0.0'
 ```
 
-##Usage
+## Usage
 
 Set up AppLinkAI in your AppDelegate:
 
@@ -53,11 +53,11 @@ Set up Api Keys in your app target's info.plist
 </dict>
 ```
 
-##License
+## License
 
 AppLinkAI is released under the MIT License. 
 See LICENSE for details.
 
-##Contact
+## Contact
 
 For any inquiries or feedback, please reach out to us at support@applink.ai.
