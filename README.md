@@ -6,7 +6,7 @@
 <a href="https://cocoapods.org/pods/AppLinkAI">
 <img src="https://img.shields.io/cocoapods/v/AppLinkAI.svg?style=flat" alt="Version">
 </a>
-<img src="https://img.shields.io/badge/spm-v1.0.1-orange.svg?style=flat" alt="Platform">
+<img src="https://img.shields.io/badge/spm-v1.0.5-orange.svg?style=flat" alt="Platform">
 <a href="https://cocoapods.org/pods/Unrealm">
 <img src="https://img.shields.io/cocoapods/l/AppLinkAI.svg?style=flat" alt="License">
 </a>

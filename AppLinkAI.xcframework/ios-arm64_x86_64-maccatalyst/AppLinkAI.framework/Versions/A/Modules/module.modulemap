@@ -1,7 +1,7 @@
 framework module AppLinkAI {
   umbrella header "AppLinkAI.h"
-
   export *
+
   module * { export * }
 }
 

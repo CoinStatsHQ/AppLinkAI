@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		3YgFkYvvHhXkGgb+HV9dQr1XFto=
+		fq5BnaYIT+sj/0Y2B19K1Id1nwo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -19,7 +19,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Olh2ZJ3IX+f9R1tg1Ly1RO74/o1V66fR9TycpfwBK9o=
+			UyBrhbnky5skWVVYe6xDo7AY4ZaUNV683JdakvOYfQQ=
 			</data>
 		</dict>
 		<key>Headers/AppLinkAI.h</key>
@@ -29,81 +29,81 @@
 			WhegNCkZoIklah8RaqULIlCNNTRqHBkZAf68HQSOTM8=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-macos.abi.json</key>
+		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z56Kk6nrovvKtMEX9vShUjG1Jfh5Glf+B1kv8ELoAUI=
+			JS8RgPTvRsEzXF+KcUCBJX68dGdLCoppw9by5FCeohU=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
+		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q6Vcm0ROt5XoHrgo/Xs425XnAmFh7zjQnjXAl6R1r5E=
+			mynCAfGBygha9Kc6FTp5jXlx/M3BYqx/vxB6xsCZgOM=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-macos.swiftdoc</key>
+		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OLpgE96toaBXbHVB30vRMs9l/QSiB1W4axqjZlxGWx4=
+			OCI3yPfRQfP4OEH6VtyHZH+0aywAht+kguRDntEssnY=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-macos.swiftinterface</key>
+		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q6Vcm0ROt5XoHrgo/Xs425XnAmFh7zjQnjXAl6R1r5E=
+			mynCAfGBygha9Kc6FTp5jXlx/M3BYqx/vxB6xsCZgOM=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-macos.swiftmodule</key>
+		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ecnj/8VWt8jZv4ihocpqzy8VkQG9byaoH/xPo/0tPC0=
+			ZbkJ/PilRuqwy4eqZ20HFOjCAfClvFEi6gwqdQ6ftdI=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-macos.abi.json</key>
+		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z56Kk6nrovvKtMEX9vShUjG1Jfh5Glf+B1kv8ELoAUI=
+			JS8RgPTvRsEzXF+KcUCBJX68dGdLCoppw9by5FCeohU=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
+		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v2+DpNAmS5qmS76iBk+V5nv1empWf6PLSQrWRmZEWfU=
+			DES3RB4VqzzC1OZH6YuZCcPjBdRsUNfTH4g5cIn2y3U=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-macos.swiftdoc</key>
+		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ULx6ZqaSAWiCNvFIT6Q5L7EbECvhav5NTIOrjTkhrR8=
+			mmYiUZBA5bDbTOMRMeqPykwm8W0ZGZESUhZ5k0DNg+I=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-macos.swiftinterface</key>
+		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v2+DpNAmS5qmS76iBk+V5nv1empWf6PLSQrWRmZEWfU=
+			DES3RB4VqzzC1OZH6YuZCcPjBdRsUNfTH4g5cIn2y3U=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-macos.swiftmodule</key>
+		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			be/YU7D/BX/n4Jy5f/8ETJGXvvZF4F207hAfIZsjvbg=
+			3mCArJWCmlb8eVlv/451IGuD/vg1nWdsChGHE06k6Hs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oOAAuWRAE2XeI6XY4FxNT8St+otO2tx2Yr/5unMiOQA=
+			wa/KDnpf5/v8gu5dkOKP1Xnp0nQHmqGredJEVjwzPyM=
 			</data>
 		</dict>
 		<key>Resources/AppLinkAI.podspec</key>
@@ -117,7 +117,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C6kJmNKkGKe6AnoVCP+vDZn+EdHAwOhZKx7nrT7qt/c=
+			KLfeFww9x5ZIXcSarezWxe9ZyNFARqhbuIaQeHpRu2A=
 			</data>
 		</dict>
 	</dict>
