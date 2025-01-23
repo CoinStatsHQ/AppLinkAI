@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "AppLinkAI",
+    "printedName": "AppLinkAI",
     "children": [
       {
         "kind": "Import",
@@ -504,6 +504,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -824,6 +840,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -1286,6 +1316,28 @@
           },
           {
             "kind": "Function",
+            "name": "reset",
+            "printedName": "reset()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AppLinkAI@objc(cs)AppLink(im)reset",
+            "mangledName": "$s9AppLinkAI0aB0C5resetyyF",
+            "moduleName": "AppLinkAI",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "handleDeepLink",
             "printedName": "handleDeepLink(_:)",
             "children": [
@@ -1332,6 +1384,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -2150,6 +2216,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       }
     ],
@@ -2157,105 +2239,105 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/arturdev\/Developer\/deeplink\/AppLinkAI\/AppLinkAI\/AppLink.swift",
+      "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
       "offset": 1031,
       "length": 15,
       "value": "\"+sourceUrlKey\""
     },
     {
-      "filePath": "\/Users\/arturdev\/Developer\/deeplink\/AppLinkAI\/AppLinkAI\/AppLink.swift",
+      "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
       "offset": 1088,
       "length": 19,
       "value": "\"+sourceUrlPathKey\""
     },
     {
-      "filePath": "\/Users\/arturdev\/Developer\/deeplink\/AppLinkAI\/AppLinkAI\/AppLink.swift",
+      "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
       "offset": 1156,
       "length": 26,
       "value": "\"+sourceUrlQueryParamsKey\""
     },
     {
-      "filePath": "\/Users\/arturdev\/Developer\/deeplink\/AppLinkAI\/AppLinkAI\/AppLink.swift",
+      "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
       "offset": 1225,
       "length": 20,
       "value": "\"+IsFirstSessionKey\""
     },
     {
-      "filePath": "\/Users\/arturdev\/Developer\/deeplink\/AppLinkAI\/AppLinkAI\/AppLink.swift",
+      "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "BooleanLiteral",
       "offset": 1440,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/arturdev\/Developer\/deeplink\/AppLinkAI\/AppLinkAI\/AppLink.swift",
+      "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "BooleanLiteral",
       "offset": 1502,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/arturdev\/Developer\/deeplink\/AppLinkAI\/AppLinkAI\/AppLink.swift",
+      "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
       "offset": 2057,
       "length": 19,
       "value": "\"isNotFirstSession\""
     },
     {
-      "filePath": "\/Users\/arturdev\/Developer\/deeplink\/AppLinkAI\/AppLinkAI\/AppLink.swift",
+      "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
       "offset": 2136,
       "length": 19,
       "value": "\"isNotFirstSession\""
     },
     {
-      "filePath": "\/Users\/arturdev\/Developer\/deeplink\/AppLinkAI\/AppLinkAI\/AppLink.swift",
+      "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
       "offset": 2247,
       "length": 10,
       "value": "\"applinks\""
     },
     {
-      "filePath": "\/Users\/arturdev\/Developer\/deeplink\/AppLinkAI\/AppLinkAI\/AppLink.swift",
+      "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "BooleanLiteral",
       "offset": 3199,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/arturdev\/Developer\/deeplink\/AppLinkAI\/AppLinkAI\/AppLink.swift",
+      "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "BooleanLiteral",
       "offset": 3621,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/arturdev\/Developer\/deeplink\/AppLinkAI\/AppLinkAI\/Constants.swift",
+      "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 169,
       "length": 20,
       "value": "\"https:\/\/applink.ai\""
     },
     {
-      "filePath": "\/Users\/arturdev\/Developer\/deeplink\/AppLinkAI\/AppLinkAI\/Keychain\/KeychainSwift.swift",
+      "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/Keychain\/KeychainSwift.swift",
       "kind": "StringLiteral",
       "offset": 379,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/arturdev\/Developer\/deeplink\/AppLinkAI\/AppLinkAI\/Keychain\/KeychainSwift.swift",
+      "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/Keychain\/KeychainSwift.swift",
       "kind": "BooleanLiteral",
       "offset": 1234,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/arturdev\/Developer\/deeplink\/AppLinkAI\/AppLinkAI\/Keychain\/KeychainSwift.swift",
+      "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/Keychain\/KeychainSwift.swift",
       "kind": "BooleanLiteral",
       "offset": 5763,
       "length": 5,

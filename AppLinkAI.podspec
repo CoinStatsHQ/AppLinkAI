@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'AppLinkAI'
   s.swift_version    = '5.5'
-  s.version          = '1.0.5'
+  s.version          = '1.0.6'
   s.summary          = 'An easy-to-use library for implementing deeplinking and deferred deeplinking in iOS apps.'
   s.description      = <<-DESC
 AppLinkAI is a powerful library that simplifies the process of implementing deeplinks
