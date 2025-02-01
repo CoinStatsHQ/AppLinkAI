@@ -1,17 +1,15 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 6.0.2 effective-5.10 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)
-// swift-module-flags: -target x86_64-apple-macos11.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name AppLinkAI
+// swift-module-flags: -target arm64-apple-ios13.1-macabi -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name AppLinkAI
 // swift-module-flags-ignorable: -no-verify-emitted-module-interface
 @_exported import AppLinkAI
-import Cocoa
 import Foundation
-import IOKit
 import Security
 import Swift
+import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-import IOKit.serial
 public struct KeychainSwiftConstants {
   public static var accessGroup: Swift.String {
     get
@@ -66,7 +64,7 @@ public enum KeychainSwiftAccessOptions {
   @objc public static let IsFirstSessionKey: Swift.String
   public typealias DeeplinkHandler = (_ params: [Swift.String : Any]?, _ error: (any Swift.Error)?) -> Swift.Void
   @objc public static let shared: AppLinkAI.AppLink
-  @objc public func initialize(aNotification: Foundation.Notification, isTestMode: Swift.Bool = false, deeplinkHandler: AppLinkAI.AppLink.DeeplinkHandler?)
+  @objc public func initialize(launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]?, isTestMode: Swift.Bool = false, deeplinkHandler: AppLinkAI.AppLink.DeeplinkHandler?)
   @discardableResult
   @objc(continueUserActivity:) public func `continue`(_ activity: Foundation.NSUserActivity) -> Swift.Bool
   @objc public func reset()

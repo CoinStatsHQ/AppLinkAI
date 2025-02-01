@@ -282,6 +282,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 @import Foundation;
 @import ObjectiveC;
+@import UIKit;
 #endif
 
 #endif
@@ -304,7 +305,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 #if defined(__OBJC__)
 @class NSString;
-@class NSNotification;
 @class NSUserActivity;
 @class NSURL;
 
@@ -329,7 +329,14 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) AppLink * _N
 + (AppLink * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
-- (void)initializeWithANotification:(NSNotification * _Nonnull)aNotification isTestMode:(BOOL)isTestMode deeplinkHandler:(void (^ _Nullable)(NSDictionary<NSString *, id> * _Nullable, NSError * _Nullable))deeplinkHandler;
+/// Initializes AppLinkAI with launch options and a deeplink handler.
+/// \param launchOptions The launch options provided by the AppDelegate.
+///
+/// \param isTestMode A flag indicating whether the library should be initialized in test mode. Default is <code>false</code>.
+///
+/// \param deeplinkHandler A closure to handle incoming deeplinks.
+///
+- (void)initializeWithLaunchOptions:(NSDictionary<UIApplicationLaunchOptionsKey, id> * _Nullable)launchOptions isTestMode:(BOOL)isTestMode deeplinkHandler:(void (^ _Nullable)(NSDictionary<NSString *, id> * _Nullable, NSError * _Nullable))deeplinkHandler;
 /// Handles the user activity when continuing from a deeplink.
 /// \param activity The NSUserActivity representing the deeplink.
 ///
@@ -640,6 +647,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 @import Foundation;
 @import ObjectiveC;
+@import UIKit;
 #endif
 
 #endif
@@ -662,7 +670,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 #if defined(__OBJC__)
 @class NSString;
-@class NSNotification;
 @class NSUserActivity;
 @class NSURL;
 
@@ -687,7 +694,14 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) AppLink * _N
 + (AppLink * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
-- (void)initializeWithANotification:(NSNotification * _Nonnull)aNotification isTestMode:(BOOL)isTestMode deeplinkHandler:(void (^ _Nullable)(NSDictionary<NSString *, id> * _Nullable, NSError * _Nullable))deeplinkHandler;
+/// Initializes AppLinkAI with launch options and a deeplink handler.
+/// \param launchOptions The launch options provided by the AppDelegate.
+///
+/// \param isTestMode A flag indicating whether the library should be initialized in test mode. Default is <code>false</code>.
+///
+/// \param deeplinkHandler A closure to handle incoming deeplinks.
+///
+- (void)initializeWithLaunchOptions:(NSDictionary<UIApplicationLaunchOptionsKey, id> * _Nullable)launchOptions isTestMode:(BOOL)isTestMode deeplinkHandler:(void (^ _Nullable)(NSDictionary<NSString *, id> * _Nullable, NSError * _Nullable))deeplinkHandler;
 /// Handles the user activity when continuing from a deeplink.
 /// \param activity The NSUserActivity representing the deeplink.
 ///

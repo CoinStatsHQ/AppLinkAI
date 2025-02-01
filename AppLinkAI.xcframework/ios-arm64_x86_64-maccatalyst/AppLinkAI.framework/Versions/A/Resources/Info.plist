@@ -17,7 +17,7 @@
 	<key>CFBundlePackageType</key>
 	<string>FMWK</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.7</string>
+	<string>1.0.8</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
@@ -41,6 +41,10 @@
 	<key>DTXcodeBuild</key>
 	<string>16B40</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>11.0</string>
+	<string>10.15</string>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>2</integer>
+	</array>
 </dict>
 </plist>
