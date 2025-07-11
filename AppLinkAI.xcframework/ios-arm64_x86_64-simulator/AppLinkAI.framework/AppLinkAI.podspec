@@ -14,8 +14,10 @@ incoming deeplinks and route them to the appropriate parts of your app.
   s.author           = { 'arturdev' => 'mkrtarturdev@gmail.com' }
   s.source           = { :git => 'https://github.com/CoinStatsHQ/AppLinkAI.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '13.0'
-  s.osx.deployment_target = '11.0'
+  s.platform     = :ios, '13.0'
+  s.pod_target_xcconfig = {
+    'SUPPORTS_MACCATALYST' => 'YES',
+  }
 
   s.vendored_frameworks = 'AppLinkAI.xcframework'	
 end

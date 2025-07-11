@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/AppLinkAI.podspec</key>
 		<data>
-		hO47zELaUQFFAhGZSrPUHXWVLro=
+		MtyWczMnh3+JiDF29wRo1NYDGls=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		WiPWwbVaUQIH0/1lxEZFUKfkGQs=
+		fzYouYS0yAsHqM6CNriY2QPw6Ak=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -19,7 +19,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OP4pFq49r3oCObxunqQKu1qoNvXBrVu5yqA6UePMtZA=
+			D+rqnkap3/r9HrZrBovCVvXhVO7l8a7omO7YSw2UayM=
 			</data>
 		</dict>
 		<key>Headers/AppLinkAI.h</key>
@@ -29,74 +29,74 @@
 			WhegNCkZoIklah8RaqULIlCNNTRqHBkZAf68HQSOTM8=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
+		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HefQ63A2QumCht4uCF/oti9q3g3zfNBET7+HS5nf5bc=
+			ldBYNZQiT5kzTuqeFosKHSCNIU1ywlHXEOstaPNIpvY=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
+		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qHNIkozA/Ctywon05mbSqxAPBvs/8TtYiwZjvNpmDAQ=
+			oEmofX2B1pwfEQlmk9NXghR7i9igL4Qs0HNgkovF1Q8=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
+		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pRkf8y44OZXEEQ29yw/n/PbkBg4C7z3yd+ztKg/U3TI=
+			9lpyJAgXjNfZA9ZMs/+f5z9lAdGuEvNrWQHTXhZlHvw=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
+		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qHNIkozA/Ctywon05mbSqxAPBvs/8TtYiwZjvNpmDAQ=
+			oEmofX2B1pwfEQlmk9NXghR7i9igL4Qs0HNgkovF1Q8=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
+		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X3CnUPMvBXkgFqiM+Tt5Kzlt5m4DqwaA9qcJHNderFY=
+			q0/yKZTMJcf86sJ3eFtvwWBGVQh9SN61cH8z3GJ+kxM=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
+		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HefQ63A2QumCht4uCF/oti9q3g3zfNBET7+HS5nf5bc=
+			ldBYNZQiT5kzTuqeFosKHSCNIU1ywlHXEOstaPNIpvY=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
+		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qvAVX8Nf8fUMrNGhgoUEGrosdo08zFPiaW7Guzf5HoE=
+			TycKKLP6xZbs6XamKGoP8/qGwcV2riZloe6VV9Ia5oQ=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
+		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u9D7pyDlj96EoA0qK7GAj+UBSOyjR8BhRprHa303d7Q=
+			QpY31TFrloi4rwOt8lsGePdT925SMyrZHO5py+xKgFY=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
+		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qvAVX8Nf8fUMrNGhgoUEGrosdo08zFPiaW7Guzf5HoE=
+			TycKKLP6xZbs6XamKGoP8/qGwcV2riZloe6VV9Ia5oQ=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
+		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yMXUaWklZ9QPMVBDumElW4b2SpIe4DVZTvF3jsRtD9o=
+			72bGIUGrc8XarpQdGf5uybmt2P96Lo9RWN9+UYeEwrg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -110,14 +110,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WMqBbI971WlxgGP9wvKxnJNOrCH9aJ0B3QNBW/R4OkQ=
+			TebMP/ihDfWKyQYK/16kwzD5Bx0hyeXCaLykmxh/kIU=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5AYjT7iyLX1daEu2HqBa7Xet4ul1mxwT6MlPY2nUgFc=
+			aFNUch3a3iu4IeeJOsZ7kmgSKAk+75L6xKNYFwpH708=
 			</data>
 		</dict>
 	</dict>

@@ -882,8 +882,22 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
+        "name": "Cocoa",
+        "printedName": "Cocoa",
+        "declKind": "Import",
+        "moduleName": "AppLinkAI"
+      },
+      {
+        "kind": "Import",
+        "name": "IOKit",
+        "printedName": "IOKit",
+        "declKind": "Import",
+        "moduleName": "AppLinkAI"
+      },
+      {
+        "kind": "Import",
+        "name": "IOKit.serial",
+        "printedName": "IOKit.serial",
         "declKind": "Import",
         "moduleName": "AppLinkAI"
       },
@@ -1162,7 +1176,7 @@
           {
             "kind": "Function",
             "name": "initialize",
-            "printedName": "initialize(launchOptions:isTestMode:deeplinkHandler:)",
+            "printedName": "initialize(aNotification:isTestMode:deeplinkHandler:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -1171,30 +1185,9 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "[UIKit.UIApplication.LaunchOptionsKey : Any]?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Dictionary",
-                    "printedName": "[UIKit.UIApplication.LaunchOptionsKey : Any]",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "LaunchOptionsKey",
-                        "printedName": "UIKit.UIApplication.LaunchOptionsKey",
-                        "usr": "c:@T@UIApplicationLaunchOptionsKey"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "ProtocolComposition",
-                        "printedName": "Any"
-                      }
-                    ],
-                    "usr": "s:SD"
-                  }
-                ],
-                "usr": "s:Sq"
+                "name": "Notification",
+                "printedName": "Foundation.Notification",
+                "usr": "s:10Foundation12NotificationV"
               },
               {
                 "kind": "TypeNominal",
@@ -1273,12 +1266,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@AppLinkAI@objc(cs)AppLink(im)initializeWithLaunchOptions:isTestMode:deeplinkHandler:",
-            "mangledName": "$s9AppLinkAI0aB0C10initialize13launchOptions10isTestMode15deeplinkHandlerySDySo019UIApplicationLaunchF3KeyaypGSg_SbySDySSypGSg_s5Error_pSgtcSgtF",
+            "usr": "c:@M@AppLinkAI@objc(cs)AppLink(im)initializeWithANotification:isTestMode:deeplinkHandler:",
+            "mangledName": "$s9AppLinkAI0aB0C10initialize13aNotification10isTestMode15deeplinkHandlery10Foundation0E0V_SbySDySSypGSg_s5Error_pSgtcSgtF",
             "moduleName": "AppLinkAI",
             "declAttributes": [
               "AccessControl",
-              "RawDocComment",
               "ObjC"
             ],
             "funcSelfKind": "NonMutating"
@@ -2283,35 +2275,35 @@
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 2057,
+      "offset": 2406,
       "length": 19,
       "value": "\"isNotFirstSession\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 2136,
+      "offset": 2485,
       "length": 19,
       "value": "\"isNotFirstSession\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 2247,
+      "offset": 2596,
       "length": 10,
       "value": "\"applinks\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "BooleanLiteral",
-      "offset": 3199,
+      "offset": 3781,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "BooleanLiteral",
-      "offset": 3621,
+      "offset": 3970,
       "length": 5,
       "value": "false"
     },
@@ -2319,8 +2311,8 @@
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 169,
-      "length": 20,
-      "value": "\"https:\/\/applink.ai\""
+      "length": 24,
+      "value": "\"https:\/\/api.applink.ai\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/Keychain\/KeychainSwift.swift",

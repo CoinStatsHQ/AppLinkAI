@@ -2283,35 +2283,35 @@
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 2057,
+      "offset": 2406,
       "length": 19,
       "value": "\"isNotFirstSession\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 2136,
+      "offset": 2485,
       "length": 19,
       "value": "\"isNotFirstSession\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "StringLiteral",
-      "offset": 2247,
+      "offset": 2596,
       "length": 10,
       "value": "\"applinks\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "BooleanLiteral",
-      "offset": 3199,
+      "offset": 3548,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "BooleanLiteral",
-      "offset": 3621,
+      "offset": 3970,
       "length": 5,
       "value": "false"
     },
@@ -2319,8 +2319,8 @@
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 169,
-      "length": 20,
-      "value": "\"https:\/\/applink.ai\""
+      "length": 24,
+      "value": "\"https:\/\/api.applink.ai\""
     },
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/Keychain\/KeychainSwift.swift",
