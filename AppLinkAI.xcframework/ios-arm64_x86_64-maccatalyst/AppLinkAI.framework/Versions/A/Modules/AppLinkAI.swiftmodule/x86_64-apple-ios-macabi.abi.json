@@ -882,22 +882,8 @@
       },
       {
         "kind": "Import",
-        "name": "Cocoa",
-        "printedName": "Cocoa",
-        "declKind": "Import",
-        "moduleName": "AppLinkAI"
-      },
-      {
-        "kind": "Import",
-        "name": "IOKit",
-        "printedName": "IOKit",
-        "declKind": "Import",
-        "moduleName": "AppLinkAI"
-      },
-      {
-        "kind": "Import",
-        "name": "IOKit.serial",
-        "printedName": "IOKit.serial",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "AppLinkAI"
       },
@@ -1176,7 +1162,7 @@
           {
             "kind": "Function",
             "name": "initialize",
-            "printedName": "initialize(aNotification:isTestMode:deeplinkHandler:)",
+            "printedName": "initialize(launchOptions:isTestMode:deeplinkHandler:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -1185,9 +1171,30 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "Notification",
-                "printedName": "Foundation.Notification",
-                "usr": "s:10Foundation12NotificationV"
+                "name": "Optional",
+                "printedName": "[UIKit.UIApplication.LaunchOptionsKey : Any]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[UIKit.UIApplication.LaunchOptionsKey : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "LaunchOptionsKey",
+                        "printedName": "UIKit.UIApplication.LaunchOptionsKey",
+                        "usr": "c:@T@UIApplicationLaunchOptionsKey"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "usr": "s:Sq"
               },
               {
                 "kind": "TypeNominal",
@@ -1266,11 +1273,12 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@AppLinkAI@objc(cs)AppLink(im)initializeWithANotification:isTestMode:deeplinkHandler:",
-            "mangledName": "$s9AppLinkAI0aB0C10initialize13aNotification10isTestMode15deeplinkHandlery10Foundation0E0V_SbySDySSypGSg_s5Error_pSgtcSgtF",
+            "usr": "c:@M@AppLinkAI@objc(cs)AppLink(im)initializeWithLaunchOptions:isTestMode:deeplinkHandler:",
+            "mangledName": "$s9AppLinkAI0aB0C10initialize13launchOptions10isTestMode15deeplinkHandlerySDySo019UIApplicationLaunchF3KeyaypGSg_SbySDySSypGSg_s5Error_pSgtcSgtF",
             "moduleName": "AppLinkAI",
             "declAttributes": [
               "AccessControl",
+              "RawDocComment",
               "ObjC"
             ],
             "funcSelfKind": "NonMutating"
@@ -2296,7 +2304,7 @@
     {
       "filePath": "\/Users\/jenkins\/.jenkins\/workspace\/AppLinkAI_iOS_Deploy\/AppLinkAI\/AppLinkAI\/AppLink.swift",
       "kind": "BooleanLiteral",
-      "offset": 3781,
+      "offset": 3548,
       "length": 5,
       "value": "false"
     },

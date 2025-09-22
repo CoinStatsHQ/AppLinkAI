@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		fzYouYS0yAsHqM6CNriY2QPw6Ak=
+		P5jKyNyrVf0KUEtP8QyMbSIccLI=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -19,7 +19,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			D+rqnkap3/r9HrZrBovCVvXhVO7l8a7omO7YSw2UayM=
+			Es6Xa1XakANnkLeZiO0myIOdtrCzZQ0CP4Xn4Zh/eeE=
 			</data>
 		</dict>
 		<key>Headers/AppLinkAI.h</key>
@@ -29,74 +29,74 @@
 			WhegNCkZoIklah8RaqULIlCNNTRqHBkZAf68HQSOTM8=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-macos.abi.json</key>
+		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ldBYNZQiT5kzTuqeFosKHSCNIU1ywlHXEOstaPNIpvY=
+			TmeayJCNJbyGQ24YUIIYQqlNyX8DDbw9yaaO5Yqw7ac=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
+		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oEmofX2B1pwfEQlmk9NXghR7i9igL4Qs0HNgkovF1Q8=
+			nY7adXte/P0y69655hkDcmLBXTjlzpTigYH7zSInAok=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-macos.swiftdoc</key>
+		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9lpyJAgXjNfZA9ZMs/+f5z9lAdGuEvNrWQHTXhZlHvw=
+			1bYObhhkggxLeWn8e+Ha6dY4g1aJf9xZdoEGKanIbOU=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-macos.swiftinterface</key>
+		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oEmofX2B1pwfEQlmk9NXghR7i9igL4Qs0HNgkovF1Q8=
+			nY7adXte/P0y69655hkDcmLBXTjlzpTigYH7zSInAok=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-macos.swiftmodule</key>
+		<key>Modules/AppLinkAI.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q0/yKZTMJcf86sJ3eFtvwWBGVQh9SN61cH8z3GJ+kxM=
+			BWgDsg52sYcTufY0yJH7w3pi5jJCAMwFVwooTsCaEx8=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-macos.abi.json</key>
+		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ldBYNZQiT5kzTuqeFosKHSCNIU1ywlHXEOstaPNIpvY=
+			TmeayJCNJbyGQ24YUIIYQqlNyX8DDbw9yaaO5Yqw7ac=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
+		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TycKKLP6xZbs6XamKGoP8/qGwcV2riZloe6VV9Ia5oQ=
+			4TKfqSnhSXM+z/OJ8CKM6C6nMTIyUmGmlS38MU12niM=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-macos.swiftdoc</key>
+		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QpY31TFrloi4rwOt8lsGePdT925SMyrZHO5py+xKgFY=
+			grQyzb8IqwLSC+gnq3DaWIG/bE1i1IzQXL60pZmR4UE=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-macos.swiftinterface</key>
+		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TycKKLP6xZbs6XamKGoP8/qGwcV2riZloe6VV9Ia5oQ=
+			4TKfqSnhSXM+z/OJ8CKM6C6nMTIyUmGmlS38MU12niM=
 			</data>
 		</dict>
-		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-macos.swiftmodule</key>
+		<key>Modules/AppLinkAI.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			72bGIUGrc8XarpQdGf5uybmt2P96Lo9RWN9+UYeEwrg=
+			VUQB0viuaZCsdT/0Lwegwu1gsEMP/kI4GBY3hgpyhvI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -117,7 +117,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aFNUch3a3iu4IeeJOsZ7kmgSKAk+75L6xKNYFwpH708=
+			WoOcHyqRuNNjBx3xUqjzeHTaSpWb2dlMxoN0QBH6vtU=
 			</data>
 		</dict>
 	</dict>

@@ -22,7 +22,7 @@
 			<key>BinaryPath</key>
 			<string>AppLinkAI.framework/Versions/A/AppLinkAI</string>
 			<key>LibraryIdentifier</key>
-			<string>macos-arm64_x86_64</string>
+			<string>ios-arm64_x86_64-maccatalyst</string>
 			<key>LibraryPath</key>
 			<string>AppLinkAI.framework</string>
 			<key>SupportedArchitectures</key>
@@ -31,7 +31,9 @@
 				<string>x86_64</string>
 			</array>
 			<key>SupportedPlatform</key>
-			<string>macos</string>
+			<string>ios</string>
+			<key>SupportedPlatformVariant</key>
+			<string>maccatalyst</string>
 		</dict>
 		<dict>
 			<key>BinaryPath</key>
